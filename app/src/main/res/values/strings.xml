@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hiyori</string>
+    <string name="hiyori_accessibility_description">Allows Hiyori to read the active screen node tree and perform taps, swipes, scrolling, and text input on your behalf.</string>
+</resources>
